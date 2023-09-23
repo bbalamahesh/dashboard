@@ -29,7 +29,7 @@ import MenuItem from '@mui/material/MenuItem';
 import Menu from '@mui/material/Menu';
 import TableData from '../TableData/TableData';
 
-const drawerWidth = 240;
+const drawerWidth = 340;
 
 const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(
   ({ theme, open }) => ({
@@ -324,9 +324,12 @@ const DrawerHeader = styled('div')(({ theme }) => ({
             </ListItem>
           ))}
           <Box>
-            dsdsd
-            sdsd
-            sdsd
+          AAPL	<br/>
+          $175.48
+<br/>
+          $-3.59 ( -2.00% ) Today
+          <br/>
+            
           </Box>
         </List>
         <Divider />

@@ -55,45 +55,45 @@ export default function TableData() {
 
 const columns = [
   {
-    name: "name",
+    name: "2023-09-22 Friday",
     options: {
       filter: true
     }
   },
   {
-    name: "status",
+    name: "2023-09-22 Saturday",
     options: {
       filter: true
     }
   },
   {
-    name: "date",
+    name: "2023-09-22 Sunday",
     options: {
       filter: false
     }
   },
   {
-    name: "time",
+    name: "2023-09-22 Monday",
     options: {
       filter: true
     }
   },
   {
-    name: "pay",
+    name: "2023-09-22 Tuesday",
     options: {
       filter: true,
       sort: true
     }
   },
   {
-    name: "description",
+    name: "2023-09-22 Wednesday",
     options: {
       filter: true,
       sort: true
     }
   },
   {
-    name: "Applicants",
+    name: "2023-09-2 Thursday",
     options: {
       filter: true,
       sort: true
